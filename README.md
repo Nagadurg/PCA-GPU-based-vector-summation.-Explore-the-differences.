@@ -435,12 +435,18 @@ return(0);
 
 
 ##1. Block.x=1023:
+
+
 <img width="427" alt="image" src="https://user-images.githubusercontent.com/94185707/236852933-17ddc5af-6294-4814-bd7b-e7aad788df25.png">
 
 ##2. Block.x=1024
+
+
 ![p](https://user-images.githubusercontent.com/94185707/236853609-ddfb474c-0087-487f-af63-f0dc491d181d.jpg)
 
 ##3. Block.x=256
+
+
 <img width="455" alt="image" src="https://user-images.githubusercontent.com/94185707/236853818-3c934e78-4916-4cda-83b4-24ed0644c504.png">
 
 
